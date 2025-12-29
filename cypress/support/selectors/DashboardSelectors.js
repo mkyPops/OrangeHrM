@@ -7,5 +7,6 @@ export const DashboardSelectors ={
     ChangePassword:'a[href="/web/index.php/pim/updatePassword"]',
     SupportLink:'a[href="/web/index.php/help/support"]',
     AboutLink:'a[href="#"]',
-    ToDoList:'.orangehrm-todo-list'
+    ToDoList:'.orangehrm-todo-list',
+    SidePanel:'.oxd-sidepanel-body'
 }
