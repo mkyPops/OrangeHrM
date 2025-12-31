@@ -10,3 +10,4 @@ export const DashboardSelectors ={
     ToDoList:'.orangehrm-todo-list',
     SidePanel:'.oxd-sidepanel-body'
 }
+

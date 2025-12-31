@@ -1,0 +1,43 @@
+{
+    "sideMenuItems": [
+        "Admin",
+        "PIM",
+        "Leave",
+        "Time",
+        "Recruitment",
+        "My Info",
+        "Performance",
+        "Dashboard",
+        "Directory",
+        "Maintenance",
+        "Claim",
+        "Buzz"
+    ],
+    "userDropdownOptions": [
+        "About",
+        "Support",
+        "Change Password",
+        "Logout"
+    ],
+    "quickLaunchItems": [
+        "Assign Leave",
+        "Leave List",
+        "Timesheets",
+        "Apply Leave",
+        "My Leave",
+        "My Timesheet"
+    ],
+    "widgetTitles": [
+        "Time at Work",
+        "My Actions",
+        "Quick Launch",
+        "Buzz Latest Posts",
+        "Employees on Leave Today",
+        "Employee Distribution by Sub Unit",
+        "Employee Distribution by Location"
+    ],
+    "pageInfo": {
+        "pageTitle": "Dashboard",
+        "headerBrandName": "OrangeHRM"
+    }
+}
